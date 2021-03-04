@@ -2,7 +2,7 @@ import requests
 from lxml import etree
 
 '''
-eval():将字符串str当成有效的表达式来求值并返回计算结果
+eval():當字串當成有效表達式回傳結果
 '''
 url = 'http://114.67.246.176:10629/'
 response = requests.session()
