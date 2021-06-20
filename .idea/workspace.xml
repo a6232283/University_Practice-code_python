@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca21c046-53f6-49b8-92a9-d1caaf2ed2c2" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/University_Practice-code_python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_滲透/scapy_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_滲透/scapy_test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_滲透/scapy_test3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_滲透/test.cap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python爬蟲/公有零售市場每日蔬果價格.py" afterDir="false" />
-    </list>
+    <list default="true" id="ca21c046-53f6-49b8-92a9-d1caaf2ed2c2" name="默认变更列表" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
