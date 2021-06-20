@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca21c046-53f6-49b8-92a9-d1caaf2ed2c2" name="默认变更列表" comment="" />
+    <list default="true" id="ca21c046-53f6-49b8-92a9-d1caaf2ed2c2" name="默认变更列表" comment="">
+      <change beforePath="$PROJECT_DIR$/python爬蟲/bs4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python爬蟲/request_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python爬蟲/座標.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
